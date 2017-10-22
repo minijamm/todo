@@ -1,0 +1,10 @@
+D:\Projects\GitHubRepos\todo\CsharpHelloWorld\bin\Debug\netcoreapp2.0\CsharpHelloWorld.deps.json
+D:\Projects\GitHubRepos\todo\CsharpHelloWorld\bin\Debug\netcoreapp2.0\CsharpHelloWorld.runtimeconfig.json
+D:\Projects\GitHubRepos\todo\CsharpHelloWorld\bin\Debug\netcoreapp2.0\CsharpHelloWorld.runtimeconfig.dev.json
+D:\Projects\GitHubRepos\todo\CsharpHelloWorld\bin\Debug\netcoreapp2.0\CsharpHelloWorld.dll
+D:\Projects\GitHubRepos\todo\CsharpHelloWorld\bin\Debug\netcoreapp2.0\CsharpHelloWorld.pdb
+D:\Projects\GitHubRepos\todo\CsharpHelloWorld\obj\Debug\netcoreapp2.0\CsharpHelloWorld.csproj.CoreCompileInputs.cache
+D:\Projects\GitHubRepos\todo\CsharpHelloWorld\obj\Debug\netcoreapp2.0\CsharpHelloWorld.AssemblyInfoInputs.cache
+D:\Projects\GitHubRepos\todo\CsharpHelloWorld\obj\Debug\netcoreapp2.0\CsharpHelloWorld.AssemblyInfo.cs
+D:\Projects\GitHubRepos\todo\CsharpHelloWorld\obj\Debug\netcoreapp2.0\CsharpHelloWorld.dll
+D:\Projects\GitHubRepos\todo\CsharpHelloWorld\obj\Debug\netcoreapp2.0\CsharpHelloWorld.pdb
